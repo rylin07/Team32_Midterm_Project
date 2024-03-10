@@ -1,0 +1,104 @@
+{
+    "iPhones": [
+      {
+        "id": 1,
+        "model": "iPhone 13 Mini",
+        "description": "Compact power, A15 Bionic chip, dual-camera system, 5.4-inch display.",
+        "price": "$299",
+        "image_src": "./images/iPhone_13_Mini.jpg" 
+      },
+      {
+        "id": 2,
+        "model": "iPhone 13",
+        "description": "A15 Bionic, advanced dual-camera system, 6.1-inch Super Retina XDR display.",
+        "price": "$399",
+        "image_src": "./images/iPhone_13.jpg" 
+      },
+      {
+        "id": 3,
+        "model": "iPhone 13 Pro",
+        "description": "Pro performance, A15 Bionic, triple-camera system, ProMotion technology, 6.1-inch display.",
+        "price": "$499",
+        "image_src": "./images/iPhone_13_Pro.jpg" 
+      },
+      {
+        "id": 4,
+        "model": "iPhone 13 Pro Max",
+        "description": "Largest display, longest battery life, A15 Bionic, triple-camera system, 6.7-inch display.",
+        "price": "$599",
+        "image_src": "./images/iPhone_13_Pro_Max.jpg" 
+      },
+      {
+        "id": 5,
+        "model": "iPhone 14",
+        "description": "A15 chip, dual-camera upgrade, 6.1-inch Super Retina XDR display.",
+        "price": "$699",
+        "image_src": "./images/iPhone_14.jpg" 
+      },
+      {
+        "id": 6,
+        "model": "iPhone 14 Pro",
+        "description": "A15 Bionic, Pro camera system with LiDAR, ProMotion, 6.1-inch display.",
+        "price": "$799",
+        "image_src": "./images/iPhone_14_Pro.jpg" 
+      },
+      {
+        "id": 7,
+        "model": "iPhone 14 Pro Max",
+        "description": "Top-tier performance, A15 Bionic, best camera system, 6.7-inch ProMotion display.",
+        "price": "$899",
+        "image_src": "./images/iPhone_14_Pro_Max.jpg" 
+      },
+      {
+        "id": 8,
+        "model": "iPhone 15",
+        "description": "A16 chip, enhanced dual-camera system, 6.1-inch Super Retina XDR screen.",
+        "price": "$999",
+        "image_src": "./images/iPhone_15.jpg" 
+      },
+      {
+        "id": 9,
+        "model": "iPhone 15 Pro",
+        "description": "A16 Bionic, advanced Pro camera system, ProMotion, 6.1-inch display.",
+        "price": "$1099",
+        "image_src": "./images/iPhone_15_Pro.jpg" 
+      },
+      {
+        "id": 10,
+        "model": "iPhone 15 Pro Max",
+        "description": "Peak performance, A16 Bionic, superior Pro camera system, 6.7-inch ProMotion display.",
+        "price": "$1199",
+        "image_src": "./images/iPhone_15_Pro_Max.jpg" 
+      }
+    ],
+    "MacBooksAndiMac": [
+      {
+        "id": 1,
+        "model": "MacBook Air M1",
+        "description": "Ultra-lightweight, M1 chip for incredible power and efficiency, 13-inch Retina display.",
+        "price": "$999",
+        "image_src": "./images/macbook_air.jpg"
+      },
+      {
+        "id": 2,
+        "model": "MacBook Pro 14",
+        "description": "All-new design, M1 Pro chip, 14-inch Liquid Retina XDR display, up to 17 hours of battery life.",
+        "price": "$1999",
+        "image_src": "./images/macbook_pro_14.jpg"
+      },
+      {
+        "id": 3,
+        "model": "MacBook Pro 16",
+        "description": "Powerful M1 Pro or M1 Max chip, 16-inch Liquid Retina XDR display, up to 21 hours of battery life.",
+        "price": "$2499",
+        "image_src": "./images/macbook_pro_16.jpg"
+      },
+      {
+        "id": 4,
+        "model": "iMac",
+        "description": "24-inch 4.5K Retina display, M1 chip, available in various colors, up to 512GB storage.",
+        "price": "$1299",
+        "image_src": "./images/imac.jpg"
+      }
+    ]
+  }

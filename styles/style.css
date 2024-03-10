@@ -1,0 +1,61 @@
+/*
+Author: Ryan Lin
+ISU Netid : rlin1@iastate.edu
+Date : March 7th, 2024
+*/
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.6;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.author-info {
+    background-color: #fff;
+    padding: 20px;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.author-info h1, .author-info h2 {
+    color: #333;
+}
+
+.team-members {
+    list-style-type: none;
+    padding: 0;
+}
+
+.team-members li {
+    background-color: #e9ecef;
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.team-members li p {
+    margin: 5px 0;
+}
+
+p strong {
+    color: #007bff;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+}
